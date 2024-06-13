@@ -70,14 +70,14 @@ Example: ./subgram.sh -d example.com -n -o /path/to/output/directory
 ```
 
 
-## 🔗 Social Links
+## 🔗 Links
+Follow me on 
 
-                                                 
 
 <p align="center">
- Follow me on &nbsp;&nbsp;  <a href="https://www.linkedin.com/in/hackytam"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+  <a href="https://www.linkedin.com/in/hackytam"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
   <a href="https://medium.com/@hackertam1"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium"></a>
   <a href="https://twitter.com/hackytam"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
 </p>
+Made with ❤️ by Tahir Mujawar
 
-                                           Made with ❤️ by Tahir Mujawar
