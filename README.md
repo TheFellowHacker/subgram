@@ -1,5 +1,5 @@
 
-# about subgram
+# subgram
 
 Subgram streamlines subdomain enumeration by leveraging multiple tools to scan specified domains, ensuring comprehensive results. It includes integration with sublist3r, subfinder, and assetfinder, providing detailed reports and optional Telegram notifications upon completion.
 
